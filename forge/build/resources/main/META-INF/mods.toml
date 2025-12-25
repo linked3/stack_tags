@@ -1,11 +1,11 @@
 modLoader = "javafml"
-loaderVersion = "[47,)"
+loaderVersion = "[1,)"
 #issueTrackerURL = ""
 license = "GNU GPL 3.0"
 
 [[mods]]
 modId = "stack_tags"
-version = "1.0-SNAPSHOT"
+version = "1.0"
 displayName = "Stack Tags"
 authors = "linkedto"
 description = '''
@@ -16,14 +16,14 @@ Adds item tags that set exact max stack sizes (1, 2, 4, 8, 16, 32, 64). Items in
 [[dependencies.stack_tags]]
 modId = "forge"
 mandatory = true
-versionRange = "[47,)"
+versionRange = "[1,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.stack_tags]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.20.1,)"
+versionRange = "[1.18.4,1.20.4]"
 ordering = "NONE"
 side = "BOTH"
 

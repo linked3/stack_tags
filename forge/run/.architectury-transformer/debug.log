@@ -1,5 +1,5 @@
 [Architectury Transformer] Architectury Runtime 5.2.87
-[Architectury Transformer DEBUG] Closed File Systems for /Users/me/Documents/code/java/test/Stack Tags/common/build/devlibs/stack-tags-common-1.0-SNAPSHOT-dev.jar
+[Architectury Transformer DEBUG] Closed File Systems for /Users/me/Documents/GitHub/stack_tags/common/build/devlibs/stack-tags-common-1.0-dev.jar
 [Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Provided 103 classpath jar(s):
 [Architectury Transformer DEBUG]  - /Users/me/.gradle/caches/fabric-loom/1.20.1/forge/1.20.1-47.4.13/client-extra.jar
@@ -105,20 +105,20 @@
 [Architectury Transformer DEBUG]  - /Users/me/.gradle/caches/fabric-loom/minecraftMaven/net/minecraft/forge-1.20.1-47.4.13-minecraft-merged/1.20.1-loom.mappings.1_20_1.layered+hash.40545-v2-forge-1.20.1-47.4.13/forge-1.20.1-47.4.13-minecraft-merged-1.20.1-loom.mappings.1_20_1.layered+hash.40545-v2-forge-1.20.1-47.4.13.jar
 [Architectury Transformer DEBUG]  - /Users/me/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.82.Final/c7350a71920f3ae9142945e25fed4846cce53374/netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar
 [Architectury Transformer DEBUG]  - /Users/me/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.82.Final/476409d6255001ca53a55f65b01c13822f8dc93a/netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar
-[Architectury Transformer] Read classpath in 901.5 ms
-[Architectury Transformer DEBUG] Closed File Systems for /Users/me/Documents/code/java/test/Stack Tags/common/build/devlibs/stack-tags-common-1.0-SNAPSHOT-dev.jar
-[Architectury Transformer DEBUG] Transforming 8 transformer(s) from /Users/me/Documents/code/java/test/Stack Tags/common/build/devlibs/stack-tags-common-1.0-SNAPSHOT-dev.jar to /var/folders/4h/z7c0dh1j21vbybpjml6jk7nw0000gn/T/588793206985395764.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@4f83df68
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@6cf0e0ba
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@7d8995e
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@130d63be
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeAnnotations@42a48628
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment@293a5bf6
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeForgeMod@6aeb35e6
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.FixForgeMixin@1283bb96
-[Architectury Transformer DEBUG] Transforming from /Users/me/Documents/code/java/test/Stack Tags/common/build/devlibs/stack-tags-common-1.0-SNAPSHOT-dev.jar to /var/folders/4h/z7c0dh1j21vbybpjml6jk7nw0000gn/T/588793206985395764.jar with 8 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer] Read classpath in 950.8 ms
+[Architectury Transformer DEBUG] Closed File Systems for /Users/me/Documents/GitHub/stack_tags/common/build/devlibs/stack-tags-common-1.0-dev.jar
+[Architectury Transformer DEBUG] Transforming 8 transformer(s) from /Users/me/Documents/GitHub/stack_tags/common/build/devlibs/stack-tags-common-1.0-dev.jar to /var/folders/4h/z7c0dh1j21vbybpjml6jk7nw0000gn/T/15849830575900833851.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@42a48628
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@293a5bf6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@6aeb35e6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@1283bb96
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeAnnotations@74f0ea28
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment@f6efaab
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeForgeMod@3c19aaa5
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.FixForgeMixin@3349e9bb
+[Architectury Transformer DEBUG] Transforming from /Users/me/Documents/GitHub/stack_tags/common/build/devlibs/stack-tags-common-1.0-dev.jar to /var/folders/4h/z7c0dh1j21vbybpjml6jk7nw0000gn/T/15849830575900833851.jar with 8 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000000080011d800@752325ad
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000000080011d800@2925bf5b
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
@@ -129,19 +129,19 @@
 [Architectury Transformer DEBUG] Checking whether /stack_tags.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Found mixin config(s): stack_tags.mixins.json
 [Architectury Transformer DEBUG] Appended Launch Argument: [--mixin.config, stack_tags.mixins.json]
-[Architectury Transformer DEBUG] Closed File Systems for /var/folders/4h/z7c0dh1j21vbybpjml6jk7nw0000gn/T/588793206985395764.jar
-[Architectury Transformer] Listening at /Users/me/Documents/code/java/test/Stack Tags/common/build/devlibs/stack-tags-common-1.0-SNAPSHOT-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [/var/folders/4h/z7c0dh1j21vbybpjml6jk7nw0000gn/T/588793206985395764.jar] contains packages: net.linkedto.stack_tags.mixin, net.linkedto.stack_tags
-[Architectury Transformer DEBUG] Closed File Systems for /Users/me/Documents/code/java/test/Stack Tags/common/build/devlibs/stack-tags-common-1.0-SNAPSHOT-dev.jar
-[Architectury Transformer DEBUG] Classpath entry [/Users/me/Documents/code/java/test/Stack Tags/forge/build/classes/java/main] contains packages: net.linkedto.stack_tags.forge
-[Architectury Transformer DEBUG] Classpath entry [/Users/me/Documents/code/java/test/Stack Tags/forge/build/resources/main] contains packages: 
+[Architectury Transformer DEBUG] Closed File Systems for /var/folders/4h/z7c0dh1j21vbybpjml6jk7nw0000gn/T/15849830575900833851.jar
+[Architectury Transformer] Listening at /Users/me/Documents/GitHub/stack_tags/common/build/devlibs/stack-tags-common-1.0-dev.jar
+[Architectury Transformer DEBUG] Temporary jar [/var/folders/4h/z7c0dh1j21vbybpjml6jk7nw0000gn/T/15849830575900833851.jar] contains packages: net.linkedto.stack_tags.mixin, net.linkedto.stack_tags
+[Architectury Transformer DEBUG] Closed File Systems for /Users/me/Documents/GitHub/stack_tags/common/build/devlibs/stack-tags-common-1.0-dev.jar
+[Architectury Transformer DEBUG] Classpath entry [/Users/me/Documents/GitHub/stack_tags/forge/build/classes/java/main] contains packages: net.linkedto.stack_tags.forge
+[Architectury Transformer DEBUG] Classpath entry [/Users/me/Documents/GitHub/stack_tags/forge/build/resources/main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from net/linkedto/stack_tags/StackTags.class to net/linkedto/stack_tags/StackTags.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000000080011d800@752325ad
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000000080011d800@2925bf5b
 [Architectury Transformer DEBUG] Remapping with Dirty Mappings...
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/linkedto/stack_tags/StackTags with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/linkedto/stack_tags/StackTags in 55.76 ms
+[Architectury Transformer DEBUG] Transformed net/linkedto/stack_tags/StackTags in 50.67 ms

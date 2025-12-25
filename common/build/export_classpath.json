@@ -1,0 +1,18 @@
+{
+  "projectPath": ":common",
+  "classpaths": {
+    "test": [
+      "/Users/me/Documents/GitHub/stack_tags/common/build/classes/java/test",
+      "/Users/me/Documents/GitHub/stack_tags/common/build/resources/test",
+      "/Users/me/Documents/GitHub/stack_tags/common/out/test/classes",
+      "/Users/me/Documents/GitHub/stack_tags/common/out/test/resources"
+    ],
+    "main": [
+      "/Users/me/Documents/GitHub/stack_tags/common/build/classes/java/main",
+      "/Users/me/Documents/GitHub/stack_tags/common/build/resources/main",
+      "/Users/me/Documents/GitHub/stack_tags/common/build/devlibs/stack-tags-common-1.0-dev.jar",
+      "/Users/me/Documents/GitHub/stack_tags/common/out/production/classes",
+      "/Users/me/Documents/GitHub/stack_tags/common/out/production/resources"
+    ]
+  }
+}

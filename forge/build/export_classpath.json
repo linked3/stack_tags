@@ -1,0 +1,18 @@
+{
+  "projectPath": ":forge",
+  "classpaths": {
+    "test": [
+      "/Users/me/Documents/GitHub/stack_tags/forge/build/classes/java/test",
+      "/Users/me/Documents/GitHub/stack_tags/forge/build/resources/test",
+      "/Users/me/Documents/GitHub/stack_tags/forge/out/test/classes",
+      "/Users/me/Documents/GitHub/stack_tags/forge/out/test/resources"
+    ],
+    "main": [
+      "/Users/me/Documents/GitHub/stack_tags/forge/build/classes/java/main",
+      "/Users/me/Documents/GitHub/stack_tags/forge/build/resources/main",
+      "/Users/me/Documents/GitHub/stack_tags/forge/build/devlibs/stack-tags-forge-1.0-dev.jar",
+      "/Users/me/Documents/GitHub/stack_tags/forge/out/production/classes",
+      "/Users/me/Documents/GitHub/stack_tags/forge/out/production/resources"
+    ]
+  }
+}
