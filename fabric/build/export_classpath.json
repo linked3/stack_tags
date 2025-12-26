@@ -2,17 +2,19 @@
   "projectPath": ":fabric",
   "classpaths": {
     "test": [
-      "/Users/me/Documents/GitHub/stack_tags/fabric/build/classes/java/test",
-      "/Users/me/Documents/GitHub/stack_tags/fabric/build/resources/test",
-      "/Users/me/Documents/GitHub/stack_tags/fabric/out/test/classes",
-      "/Users/me/Documents/GitHub/stack_tags/fabric/out/test/resources"
+      "/Users/me/Documents/code/java/Stack Tags/fabric/build/classes/java/test",
+      "/Users/me/Documents/code/java/Stack Tags/fabric/build/resources/test",
+      "/Users/me/Documents/code/java/Stack Tags/out/production/stack_tags.fabric.test",
+      "/Users/me/Documents/code/java/Stack Tags/fabric/out/test/classes",
+      "/Users/me/Documents/code/java/Stack Tags/fabric/out/test/resources"
     ],
     "main": [
-      "/Users/me/Documents/GitHub/stack_tags/fabric/build/classes/java/main",
-      "/Users/me/Documents/GitHub/stack_tags/fabric/build/resources/main",
-      "/Users/me/Documents/GitHub/stack_tags/fabric/build/devlibs/stack-tags-fabric-1.0-dev.jar",
-      "/Users/me/Documents/GitHub/stack_tags/fabric/out/production/classes",
-      "/Users/me/Documents/GitHub/stack_tags/fabric/out/production/resources"
+      "/Users/me/Documents/code/java/Stack Tags/fabric/build/classes/java/main",
+      "/Users/me/Documents/code/java/Stack Tags/fabric/build/resources/main",
+      "/Users/me/Documents/code/java/Stack Tags/fabric/build/devlibs/stack-tags-fabric-1.0-dev.jar",
+      "/Users/me/Documents/code/java/Stack Tags/out/production/stack_tags.fabric.main",
+      "/Users/me/Documents/code/java/Stack Tags/fabric/out/production/classes",
+      "/Users/me/Documents/code/java/Stack Tags/fabric/out/production/resources"
     ]
   }
 }
