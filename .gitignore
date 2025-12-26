@@ -8,6 +8,8 @@ out/
 output/
 bin/
 libs/
+*/.DS_Store
+build/
 
 .classpath
 .project
